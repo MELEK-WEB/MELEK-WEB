@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melek SAADI</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melek-web&label=Profile%20views&color=0e75b6&style=flat" alt="melek-web" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melek-web" alt="melek-web" /></a> </p>
+<img src='https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif' align="right" width="400" >
 
 - 🌱 I’m currently learning **Devops**
 
